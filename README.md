@@ -11,7 +11,7 @@
 -	Interfaced the EFM8 MCU to two servo motors via an H-Bridge and to a Colpitts oscillator to detect a change in frequency when the car approaches a piece of metal. 
 -	Programmed the EFM8 MCU in C to convert the received joystick values into PWM signals, send the PWM signals to the servo motors attached to the car, and to send a signal back to the ATmega MCU when the car detects a piece of metal.
 
-![MetalDetectorRobot](/assests/img/MetalDetectorRobot.gif)
+![MetalDetectorRobot](/assests/img/MetalDetectorRobot.png)
 
 [Watch the Remote Controlled Metal Detector Robot here](https://youtu.be/mZLfGB5S_78)
 
