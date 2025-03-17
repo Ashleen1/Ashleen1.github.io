@@ -11,11 +11,15 @@ Remote Controlled Metal Detector Robot, University of British Columbia (April, 2
 -	Interfaced the EFM8 MCU to two servo motors via an H-Bridge and to a Colpitts oscillator to detect a change in frequency when the car approaches a piece of metal. 
 -	Programmed the EFM8 MCU in C to convert the received joystick values into PWM signals, send the PWM signals to the servo motors attached to the car, and to send a signal back to the ATmega MCU when the car detects a piece of metal.
 
+[Watch the Remote Controlled Metal Detector Robot here](https://youtu.be/mZLfGB5S_78)
+
 Reflow Oven Controller, University of British Columbia (February, 2024)
 -	Worked in a team of 6 to interface a N76E003 microcontroller coded in assembly to control an oven that reflow soldered PCBs.
 -	Programmed in Python a temperature strip chart plot that received values via SPI from the MCU and plotted in real time.
 -	Coded the state machine of the MCU to control the time of each state and the PWM output to power the oven.
 -	Designed the temperature measuring circuit by using a LM335 as the cold junction, an op amp connected to a thermocouple as the hot junction, and interfacing both junctions to the MCU’s ADC.
+
+[Watch the Reflow Oven Controller here](https://youtu.be/R9UzU7Z3a9Q)
 
 Simple RISC Machine, University of British Columbia (Nov, 2023)  
 -	Designed and coded the data path, finite state machine, Memory, and I/O of a simple RISC machine in Verilog.
@@ -28,7 +32,7 @@ Line Following Robot, Kwantlen Polytechnic University (Mar, 2023 – Apr, 2023)
 -	Developed an algorithm that allowed the robot to recognize an obstacle, helped determine which obstacle it had approached, and how it should proceed through the obstacle.
 -	Submitted weekly reports entailing the project’s progress, pseudocode solutions for obstacles, and the goals for the following week.
 
-[Watch the Line Following Robot in action](https://youtu.be/aSvBTuyrISc)
+[Watch the Line Following Robot here](https://youtu.be/aSvBTuyrISc)
 
 Festo Modular Production System, British Columbia Institute of Technology (Jan, 2022 – May, 2022)
 -	Programmed an Allen-Bradley PLC to control 3 miniature production stations that sorted small wheels based on colour and material.
