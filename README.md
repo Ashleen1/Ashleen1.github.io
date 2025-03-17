@@ -41,7 +41,7 @@
 -	Installed pneumatic tubing and replaced/fixed broken pneumatic actuators.
 -	Troubleshooted the system’s circuit using an oscilloscope and multimeter.
 
-![FMPS](assets/img/FMPS.png)
+![FMPS](/assests/img/FMPS.png)
 
 [Festo Modular Production System Wheel Sorting](https://youtu.be/S2NsLHZfQiI)
 
