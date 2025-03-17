@@ -6,7 +6,7 @@
 - Modelled the mechanical system of the robot in MATLAB Simscape and tuned PID coefficients based on the system’s response.
 - Interfaced two DC gear motors to an H-bridge chip and controlled the motors by converting the PID’s output from force to PWM.
 
-### Remote Controlled Metal Detector Robot, University of British Columbia (April, 2024)
+### Remote Controlled Metal Detector Robot, University of British Columbia (Apr, 2024)
 -	Worked in a team of 6 to program in C an ATmega328P MCU that would read the ADC values from a joystick and send them to an EFM8LB12 MCU via JDY-40 radio modules.
 -	Interfaced the EFM8 MCU to two servo motors via an H-Bridge and to a Colpitts oscillator to detect a change in frequency when the car approaches a piece of metal. 
 -	Programmed the EFM8 MCU in C to convert the received joystick values into PWM signals, send the PWM signals to the servo motors attached to the car, and to send a signal back to the ATmega MCU when the car detects a piece of metal.
@@ -15,7 +15,7 @@
 
 [Watch the Remote Controlled Metal Detector Robot here](https://youtu.be/mZLfGB5S_78)
 
-### Reflow Oven Controller, University of British Columbia (February, 2024)
+### Reflow Oven Controller, University of British Columbia (Feb, 2024)
 -	Worked in a team of 6 to interface a N76E003 microcontroller coded in assembly to control an oven that reflow soldered PCBs.
 -	Programmed in Python a temperature strip chart plot that received values via SPI from the MCU and plotted in real time.
 -	Coded the state machine of the MCU to control the time of each state and the PWM output to power the oven.
