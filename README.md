@@ -29,6 +29,10 @@ Line Following Robot, Kwantlen Polytechnic University (Mar, 2023 – Apr, 2023)
 -	Submitted weekly reports entailing the project’s progress, pseudocode solutions for obstacles, and the goals for the following week.
 <video controls width="450" height="250"><source src="https://youtu.be/aSvBTuyrISc" type="video/mp4"> 
 
+
+https://github.com/user-attachments/assets/ee9e23d6-860d-4ac0-b462-d166d19abf05
+
+
 Festo Modular Production System, British Columbia Institute of Technology (Jan, 2022 – May, 2022)
 -	Programmed an Allen-Bradley PLC to control 3 miniature production stations that sorted small wheels based on colour and material.
 -	Implemented an HMI that allowed users to start each station, view each station’s sorted wheels, where a system fault had occurred, and enter a password controlled manual override mode.
