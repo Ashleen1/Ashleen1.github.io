@@ -55,3 +55,7 @@
 
 [Festo Modular Production System Height Detection](https://youtu.be/a36U2wlnijE)
 
+### Maze Solving Robot (2018)
+-	Designed and built the casing for a 2-wheel Arduino robot by sawing pieces of plastic board, drilling holes for sensors and buttons, and gluing the pieces together.
+-	Soldered/Interfaced buttons, sensors, and motors to an Arduino.
+-	Programmed the robot to use its ultrasonic sensors and buttons to navigate its way out of a maze.	
