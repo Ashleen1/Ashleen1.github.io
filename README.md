@@ -27,11 +27,7 @@ Line Following Robot, Kwantlen Polytechnic University (Mar, 2023 – Apr, 2023)
 -	Programmed a Pololu 3pi Robot in C with a PIC18F46K42 microcontroller to complete a line track with various obstacles such as gaps, dead ends, nearby tracks, and crossroads.
 -	Developed an algorithm that allowed the robot to recognize an obstacle, helped determine which obstacle it had approached, and how it should proceed through the obstacle.
 -	Submitted weekly reports entailing the project’s progress, pseudocode solutions for obstacles, and the goals for the following week.
-<video controls width="450" height="250"><source src="https://youtu.be/aSvBTuyrISc" type="video/mp4"> 
-
-
-https://github.com/user-attachments/assets/ee9e23d6-860d-4ac0-b462-d166d19abf05
-
+[Watch the Line Following Robot in action](https://youtu.be/aSvBTuyrISc)
 
 Festo Modular Production System, British Columbia Institute of Technology (Jan, 2022 – May, 2022)
 -	Programmed an Allen-Bradley PLC to control 3 miniature production stations that sorted small wheels based on colour and material.
