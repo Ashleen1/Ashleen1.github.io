@@ -21,7 +21,7 @@
 -	Coded the state machine of the MCU to control the time of each state and the PWM output to power the oven.
 -	Designed the temperature measuring circuit by using a LM335 as the cold junction, an op amp connected to a thermocouple as the hot junction, and interfacing both junctions to the MCU’s ADC.
 
-![ReflowOven](/assests/img/ReflowOven.gif)
+![ReflowOven](\assests/img/ReflowOven.gif)
 
 [Watch the Reflow Oven Controller here](https://youtu.be/R9UzU7Z3a9Q)
 
