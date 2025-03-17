@@ -37,3 +37,7 @@ Festo Modular Production System, British Columbia Institute of Technology (Jan, 
 -	Installed pneumatic tubing and replaced/fixed broken pneumatic actuators.
 -	Troubleshooted the system’s circuit using an oscilloscope and multimeter.
 
+[Festo Modular Production System Wheel Sorting](https://youtu.be/S2NsLHZfQiI)
+[Festo Modular Production System Manual Override Mode](https://youtu.be/Ey4tMkQz95E)
+[Festo Modular Production System Height Detection](https://youtu.be/a36U2wlnijE)
+
