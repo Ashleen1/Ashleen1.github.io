@@ -1,10 +1,13 @@
 # Electrical Engineering Student
 
 ## Projects
-### Self-Balancing Robot, University of British Columbia (Jan, 2025 - Present)
+### Self-Balancing Robot, University of British Columbia (Jan, 2025 - Apr, 2025)
 - Worked in a team of 3 to program an Arduino Nano that used a gyroscope and accelerometer to measure the tilt angle of the robot.
-- Modelled the mechanical system of the robot in MATLAB Simscape and tuned PID coefficients based on the system’s response.
-- Interfaced two DC gear motors to an H-bridge chip and controlled the motors by converting the PID’s output from force to PWM.
+- Coded and tuned a PID controller with a Kalman filter, which took the error between the tilt angle and desired angle as the input.
+- Interfaced two DC gear motors to an H-bridge chip and controlled the motors by using the PID’s output as PWM.
+![SelfBalancingRobot](/assests/img/SelfBalancingRobot.jpeg)
+
+[Watch the Self-Balancing Robot here](https://youtu.be/V-CvvJBqH60)
 
 ### Remote Controlled Metal Detector Robot, University of British Columbia (Apr, 2024)
 -	Worked in a team of 6 to program in C an ATmega328P MCU that would read the ADC values from a joystick and send them to an EFM8LB12 MCU via JDY-40 radio modules.
