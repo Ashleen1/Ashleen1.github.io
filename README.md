@@ -28,9 +28,9 @@
 
 [Watch the Reflow Oven Controller here](https://youtu.be/R9UzU7Z3a9Q)
 
-### Simple RISC Machine, University of British Columbia (Nov, 2023)  
--	Designed and coded the data path, finite state machine, Memory, and I/O of a simple RISC machine in Verilog.
--	Worked alongside a partner and used Visual Studio Live Share to achieve paired programming remotely.
+### FPGA Simple RISC Machine, University of British Columbia (Nov, 2023)  
+-	Designed and coded the data path, finite state machine (FSM), ALU, multi-register file, shifter, instruction decoder, and I/O of a simple RISC machine in Verilog.
+-	Developed the FSM control logic to perform ADD, CMP, AND, MVN, & MOV operations.
 -	Simulated designs in ModelSim by creating testbenches to check signal values/waveforms and troubleshooted designs based on the outcome of the simulation.
 -	Uploaded the completed design to a DE1-SoC using Quartus to verify correct simulations by testing the system’s I/O.
 
@@ -57,6 +57,13 @@
 [Festo Modular Production System Manual Override Mode](https://youtu.be/Ey4tMkQz95E)
 
 [Festo Modular Production System Height Detection](https://youtu.be/a36U2wlnijE)
+
+### Four-Floor Elevator Control System, British Columbia Institute of Technology (Apr, 2022)
+-	Designed and programmed a PLC four-floor elevator control system using ladder logic.
+-	Implemented multi-call request handling, directional servicing logic, and timed floor stops.
+-	Developed door control logic with safety interlocks preventing motion while doors were open.
+-	Implemented emergency stop and reset functionality with safe-state behavior.
+-	Produced documentation including I/O tables, state diagrams, and ladder logic descriptions.
 
 ### Maze Solving Robot (2018)
 -	Designed and built the casing for a 2-wheel Arduino robot by sawing pieces of plastic board, drilling holes for sensors and buttons, and gluing the pieces together.
