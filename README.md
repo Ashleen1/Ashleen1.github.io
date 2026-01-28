@@ -1,9 +1,10 @@
 # Electrical Engineering Student
 
 ## Projects
-### Self-Balancing Robot, UBC (Jan, 2025 - Apr, 2025)
+### Bluetooth Self-Balancing Robot, UBC (Jan, 2025 - Apr, 2025)
 - Worked in a team of 3 to program an Arduino Nano that used a gyroscope and accelerometer to measure the tilt angle of the robot.
 - Coded and tuned a PID controller with a complementary filter, which took the error between the tilt angle and desired angle as the input.
+- Developed a Python program that communicated to the Arduino Nano over Bluetooth to allow driving capabilities of the robot.
 - Interfaced two DC gear motors to an H-bridge chip and controlled the motors by using the PID’s output as PWM.
 
 ![SelfBalancingRobot](/assests/img/SelfBalancingRobot.jpeg)
