@@ -1,6 +1,14 @@
 # Electrical Engineering Student
 
 ## Projects
+### FPGA Baccarat Engine, UBC (Jan, 2026)
+- Designed and implemented a hierarchical digital system consisting of a datapath and finite state machine (FSM) using SystemVerilog.
+- Collaborated on FSM control logic to sequence multi-step operations and manage register enables.
+- Implemented a datapath including registers, combinational logic, and score computation modules.
+- Wrote testbenches and performed post-synthesis simulation in ModelSim.
+- Validated the design on a DE1-SoC FPGA board using waveform-level debugging and on-board I/O.
+- Used Git/GitHub for version control and structured collaboration.
+
 ### Bluetooth Self-Balancing Robot, UBC (Jan, 2025 - Apr, 2025)
 - Worked in a team of 3 to program an Arduino Nano that used a gyroscope and accelerometer to measure the tilt angle of the robot.
 - Coded and tuned a PID controller with a complementary filter, which took the error between the tilt angle and desired angle as the input.
