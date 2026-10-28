@@ -1,6 +1,14 @@
 # Electrical Engineering Student
 
 ## Projects
+### FPGA ARC4 Encryption/Cracking Engine, UBC (Mar, 2026)
+- Designed and implemented an ARC4 stream cipher in SystemVerilog using a modular datapath and FSM architecture.
+- Developed hardware modules for state initialization, key-scheduling (KSA), and pseudo-random generation (PRGA) using on-chip RAM.
+- Implemented a ready/enable handshake protocol to coordinate variable-latency modules and memory accesses.
+- Designed a brute-force key search engine to crack 24-bit encrypted messages by validating ASCII plaintext outputs.
+- Optimized performance by implementing a parallel dual-core cracking architecture, achieving ~2× speedup.
+- Verified functionality using RTL and post-synthesis testbenches in ModelSim and validated designs on a DE1-SoC FPGA.
+
 ### FPGA Baccarat Engine, UBC (Jan, 2026)
 - Designed and implemented a hierarchical digital system consisting of a datapath and finite state machine (FSM) using SystemVerilog.
 - Collaborated on FSM control logic to sequence multi-step operations and manage register enables.
